@@ -500,7 +500,6 @@ nav hr {
 }
 .top-bar .logo {
   max-width: 80px;
-  margin: 0 auto;
 }
 .logo.logo-wide {
   max-width: 140px;
@@ -2913,7 +2912,7 @@ footer.short-2 .contact-action:hover {
     max-height: 8000px;
   }
   .nav-menu {
-    padding-top: 12px;
+    padding-top: 24px;
   }
   .top-bar .logo {
     bottom: 0px;
